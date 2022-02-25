@@ -9,6 +9,10 @@ while i in range (5):
 '''
 
 
+
+
+
+
 # string = ['s', 't', 'r', 'i', 'n','g']
 # print(str(string))
 # print(type(string))
